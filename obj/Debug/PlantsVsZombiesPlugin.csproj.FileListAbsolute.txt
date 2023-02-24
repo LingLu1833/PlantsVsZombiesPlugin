@@ -1,0 +1,10 @@
+E:\Materials\C#\PlantsVsZombiesPlugin\bin\Debug\PlantsVsZombiesPlugin.exe.config
+E:\Materials\C#\PlantsVsZombiesPlugin\bin\Debug\PlantsVsZombiesPlugin.exe
+E:\Materials\C#\PlantsVsZombiesPlugin\bin\Debug\PlantsVsZombiesPlugin.pdb
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.csprojAssemblyReference.cache
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.Form_Main.resources
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.Properties.Resources.resources
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.csproj.GenerateResource.cache
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.csproj.CoreCompileInputs.cache
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.exe
+E:\Materials\C#\PlantsVsZombiesPlugin\obj\Debug\PlantsVsZombiesPlugin.pdb
